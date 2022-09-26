@@ -14,3 +14,5 @@ BTW no offence to those who feel confident with english, but I want this to be a
 - [struktury i klasy](pages/structs_n_classes.md)
 - [biblioteki](pages/std.md)
 - [algorytmy](pages/algos.md)
+
+Jeżeli chcesz pomóc twożyć ten dokument, lub zgłosić błąd, patrz [tutaj](CONTRIBUTING.md)
