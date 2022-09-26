@@ -118,7 +118,7 @@ Prostym przykładem jest wieża hanoi, która polega na przeniesieniu wieży z k
 - można przenosić tylko jeden krążek na raz
 - więkrzego krążka nie można umieścić na krążku mniejszym
 
-```json
+```
   -|-       |        |
  --|--      |        |
 ---|---     |        |
@@ -128,7 +128,7 @@ Prostym przykładem jest wieża hanoi, która polega na przeniesieniu wieży z k
 Można zobaczyć że kiedyś musimy przemieścić najwiękrzy krążek z pierwszego słupka na ostatni.  
 Aby to osiągnąć jednak pozostałe krążki muszą być na pozycji drugiej.
 
-```json
+```
    /-----------------\
    |                 v
 
@@ -141,7 +141,7 @@ Aby to osiągnąć jednak pozostałe krążki muszą być na pozycji drugiej.
 Jednak teraz musimy zagłowić się jak przenieść krążek drugi oraz pierwszy na słupek drugi.  
 Można tu zauważyć że aby to zrobić, musimy przemieścić wrzystkie krążki mniejsze od drugiego na słupek trzeci.
 
-```json
+```
    /--------\
    |        v
 
@@ -153,7 +153,7 @@ Można tu zauważyć że aby to zrobić, musimy przemieścić wrzystkie krążki
 
 Jednak teraz musmimy zagłowić się jak przenieść krążek pierwszy oraz... Nie tylko pierwszy, na pozycję trzecią.
 
-```json
+```
    /-----------------\
    |                 v
 
@@ -166,7 +166,7 @@ Jednak teraz musmimy zagłowić się jak przenieść krążek pierwszy oraz... N
 
 Jednak gdy przeniesieniemy krążek drugi na drugi, trzeci słupek jest zablokowany krążkiem pierwszym. Przenieśmy go więc.
 
-```json
+```
             /--------\
             v        |
 
@@ -179,7 +179,7 @@ Jednak gdy przeniesieniemy krążek drugi na drugi, trzeci słupek jest zablokow
 Teraz gdy najwiękrzy krążek jest na pozycji trzeciej, musimy nałożyć na niego drugi i pierwszy krążek...  
 Jednak już przekładaliśmy krążki pierwszy i drugi na inną kolumę! Zróbmy to ponownie!
 
-```json
+```
    /-----------------\
    |        /--------+
    +--------+        |
