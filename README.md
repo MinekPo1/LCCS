@@ -9,8 +9,8 @@ BTW no offence to those who feel confident with english, but I want this to be a
 
 - [podstawy podstaw](pages/basics.md)
 - [ify i pętle](pages/ifs_n_loops.md)
-- [wskaźniki i tablice](pages/pointers.md)
 - [funkcje](pages/funcs.md)
+- [wskaźniki i tablice](pages/pointers.md)
 - [struktury i klasy](pages/structs_n_classes.md)
 - [biblioteki](pages/std.md)
 - [algorytmy](pages/algos.md)

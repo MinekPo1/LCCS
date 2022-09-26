@@ -49,7 +49,7 @@ else {
 
 ## pętla `while`
 
-`while` to jedna z podstawowych pentli. Pozwala ona wykonywać kod raz po razie, do puki warunek jest spełniony.
+`while` to jedna z podstawowych pentli. Pozwala ona wykonywać kod raz po razie, dopuki warunek jest spełniony.
 
 ```c++
 int a = 1;

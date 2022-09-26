@@ -31,6 +31,8 @@ int main(){
 }
 ```
 
+Patrz na rozdział [funkcje](funcs.md) jeżeli chcesz dowiedzeć się więcej o funkcjiach
+
 ## zmienne
 
 Zmienne można wyobrasić sobie jako szufladki do których można coś włożyć aby przechować na później.
